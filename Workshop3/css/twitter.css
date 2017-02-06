@@ -1,0 +1,23 @@
+.frame {
+  border-width: 1px;
+  border-style: none;
+  border-color: lightgrey;
+  height: 530px;
+  border-radius: 5px;
+}
+
+.no-border {
+  border:none;
+}
+
+.padding {
+  padding-left: 55px;
+}
+
+.color {
+  color:grey;
+}
+
+.round {
+  border-radius: 15px;
+}

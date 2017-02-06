@@ -1,0 +1,6 @@
+# Ignores node dependencies (e.g. webpack).
+node_modules
+# Ignores your built application.
+build/js/app.js
+# Ignores files Macs generate
+.DS_Store
